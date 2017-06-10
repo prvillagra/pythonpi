@@ -1,0 +1,905 @@
+Panico normalizado!('Status do pino: '
+, 4, 0)
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Traceback (most recent call last):
+  File "restpy.py", line 48, in <module>
+    main()
+  File "restpy.py", line 45, in main
+    time.sleep(2)
+KeyboardInterrupt
+Panico normalizado!('Status do pino: ', 4
+, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressPanico normalizado!('Status do pino: '
+, 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico pressionado!
+Panico pressionado!
+('Status do pino: ', 4, 1)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Panico normalizado!
+('Status do pino: ', 4, 0)
+Pani
